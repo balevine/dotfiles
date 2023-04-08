@@ -255,7 +255,6 @@ mas "Moom", id: 419330170
 mas "Numbers", id: 409203825
 mas "Pages", id: 409201541
 mas "Pixelmator Pro", id: 1289583905
-mas "Scrivener", id: 1310686187
 mas "Simple Comic", id: 1497435571
 mas "Slack", id: 803453959
 mas "Snagit 2022", id: 1564091330
