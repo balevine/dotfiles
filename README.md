@@ -5,7 +5,7 @@ Your dotfiles are how you personalize your system. These are mine.
 ## Installation
 
 ```
-git clone https://github.com/gjtorikian/dotfiles ~/.dotfiles
+git clone https://github.com/balevine/dotfiles ~/.dotfiles
 cd ~/.dotfiles
 script/bootstrap
 ```
@@ -31,6 +31,7 @@ There's a few special files in the hierarchy.
 
 ## Thanks
 
+* [@gjtorikian](https://www.github.com/gjtorikian)
 * [@bswinnerton](https://www.github.com/bswinnerton)
 * [@holman](https://www.github.com/holman)
 * [@MikeMcQuaid](https://www.github.com/MikeMcQuaid)
